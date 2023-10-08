@@ -1,6 +1,8 @@
-[### Hi there 👋
+Hi there 👋
+https://bannergepzuu.carrd.co/
+![image](https://github.com/Gepzuu/Gepzuu/assets/92858147/e3c83e4a-9704-4612-974b-1767245de1d8)
 
-](https://bannergepzuu.carrd.co/
+
 <h1 align="center">Hi 👋, I'm Gepzuu</h1>
 <h3 align="center">A passionate frontend developer from Philippines</h3>
 <img align="right" alt"codingcat" width="400" src="https://giphy.com/stickers/the-pizzacat-cat-cats-computer-cmCEsJZHYBPels360q">
