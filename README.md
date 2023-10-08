@@ -5,7 +5,7 @@ https://bannergepzuu.carrd.co/
 
 <h1 align="center">Hi 👋, I'm Gepzuu</h1>
 <h3 align="center">A passionate frontend developer from Philippines</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="Coding" width="400" src="[https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif](https://www.google.com/url?sa=i&url=https%3A%2F%2Fdribbble.com%2Fshots%2F8768655-Cat-typing&psig=AOvVaw3G2D9j-SB-JjBeyQj53pMw&ust=1696827593387000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCJiknsHV5YEDFQAAAAAdAAAAABAE)">
 
 - 🌱 I’m currently learning **Vue js**
 
