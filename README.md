@@ -12,7 +12,7 @@ https://bannergepzuu.carrd.co/
 - 👨‍💻 All of my projects are available at [https://github.com/Gepzuu](https://github.com/Gepzuu)
 
 - 📫 How to reach me **micgepzuu88@gmail.com**
-<img align="center" src="https://giphy.com/stickers/the-pizzacat-cat-cats-computer-cmCEsJZHYBPels360q" alt="coding cat" />
+<img align="center" src="[https://giphy.com/stickers/the-pizzacat-cat-cats-computer-cmCEsJZHYBPels360q](https://www.google.com/imgres?imgurl=https%3A%2F%2Fmedia2.giphy.com%2Fmedia%2FcmCEsJZHYBPels360q%2F200w.gif%3Fcid%3D82a1493bd3i100i1mbvm7ks99gacdbteqp3zkt3ag584xd5l%26ep%3Dv1_gifs_related%26rid%3D200w.gif%26ct%3Ds&tbnid=Rcc9oyl_P0tvUM&vet=12ahUKEwi9rYLc0-WBAxVLp1YBHegoBXAQMygJegQIARBj..i&imgrefurl=https%3A%2F%2Fgiphy.com%2Fstickers%2FSushiboxru-cat-kitten-sushistik-f6hnhHkks8bk4jwjh3&docid=mo0hW4PXnBulGM&w=200&h=200&q=animated%20coding%20cat%20gif&ved=2ahUKEwi9rYLc0-WBAxVLp1YBHegoBXAQMygJegQIARBj)" alt="coding cat" />
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
