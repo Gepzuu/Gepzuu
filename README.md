@@ -1,4 +1,4 @@
-![MasterHead](https://share.creavite.co/gvK1jePeDqH6CN5M.gif)
+![MasterHead](https://share.creavite.co/qvihkNdBSrk94rjW.gif)
 
 
 
