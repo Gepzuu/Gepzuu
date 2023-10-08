@@ -5,7 +5,7 @@ https://bannergepzuu.carrd.co/
 
 <h1 align="center">Hi 👋, I'm Gepzuu</h1>
 <h3 align="center">A passionate frontend developer from Philippines</h3>
-<img align="right" alt"codingcat" width="400" src="https://giphy.com/stickers/the-pizzacat-cat-cats-computer-cmCEsJZHYBPels360q">
+https://giphy.com/stickers/the-pizzacat-cat-cats-computer-cmCEsJZHYBPels360q
 
 - 🌱 I’m currently learning **Vue js**
 
