@@ -1,4 +1,4 @@
-<img align="right" alt="Coding" width="600" src="https://share.creavite.co/qvihkNdBSrk94rjW.gif">
+
 
 
 <h1 align="center">Hi 👋, I'm Gepzuu</h1>
