@@ -5,8 +5,6 @@
 <h3 align="center">Web Development/Application Design </h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/926537/screenshots/8768655/media/0eb8fcc9f2b8a55c589cfabd6cc89d94.gif">
 
-- 🌱 I’m currently learning **Vue js**
-
 - 👨‍💻 All of my projects are available at [https://github.com/Gepzuu](https://github.com/Gepzuu)
 
 - 📫 Let's connect reach me at micgepzuu88@gmail.com
