@@ -21,8 +21,8 @@
 
 <b>My Statistics</b>
 
-<a href="http://www.github.com/Gepzuu"><img src="https://github-readme-stats.vercel.app/api?username=Gepzuu&show_icons=true&hide=prs,issues,contribs&count_private=true&title_color=14b8a6&text_color=ffffff&icon_color=14b8a6&bg_color=1c1917&hide_border=true&show_icons=true" alt="Gepzuu's GitHub stats" /></a>
-
+<a href="http://www.github.com/Gepzuu"><img src="https://github-readme-stats.vercel.app/api?
+username=Gepzuu&show_icons=true&hide=prs,issues,contribs&count_private=true&title_color=14b8a6&text_color=ffffff&icon_color=14b8a6&bg_color=1c1917&hide_border=true&show_icons=true" alt="Gepzuu's GitHub stats" /></a>
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Gepzuu&theme=juicyfresh&no-frame=false&no-bg=false&margin-w=4)
