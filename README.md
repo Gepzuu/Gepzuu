@@ -19,11 +19,6 @@
 ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white) ![GIT](https://img.shields.io/badge/Git-fc6d26?style=for-the-badge&logo=git&logoColor=white)
 
 
-<b>My Statistics</b>
-
-<a href="http://www.github.com/Gepzuu"><img src="https://github-readme-stats.vercel.app/api?
-username=Gepzuu&show_icons=true&hide=prs,issues,contribs&count_private=true&title_color=14b8a6&text_color=ffffff&icon_color=14b8a6&bg_color=1c1917&hide_border=true&show_icons=true" alt="Gepzuu's GitHub stats" /></a>
-
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Gepzuu&theme=juicyfresh&no-frame=false&no-bg=false&margin-w=4)
 
