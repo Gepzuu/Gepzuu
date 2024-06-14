@@ -60,6 +60,11 @@
   <img src="https://github-profile-trophy.vercel.app/?username=gepzuu&theme=calm_pink&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Profile Trophy" />
 </div>
 
+# ✉ Contact
+<div align="center">
+  <a href="mailto:micgepzuu88@gmail.com">micgepzuu88@gmail.com</a>
+</div>
+
 
 ---
 <div align="center">
