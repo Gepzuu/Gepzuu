@@ -1,7 +1,7 @@
 # 🐱 About Me
 
 
-<p align="center"> Hello, I'm Gep. I'm passionate about expanding my knowledge in the fields of technology, coding, and cybersecurity. </p>
+<p align="center"> Hello, I'm Gep. I'm passionate about expanding my knowledge in the fields of technology, coding, and cybersecurity </p>
 
 
 <div align="center">
