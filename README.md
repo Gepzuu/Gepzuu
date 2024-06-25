@@ -56,7 +56,7 @@
 </div>
 
 
-## 🏆 GitHub Trophies
+
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=gepzuu&theme=calm_pink&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Profile Trophy" />
 </div>
