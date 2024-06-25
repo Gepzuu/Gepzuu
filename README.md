@@ -27,8 +27,6 @@
   <img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
   <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React" />
   <img src="https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white" alt="NPM" />
-  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="NodeJS" />
- 
   <img src="https://img.shields.io/badge/chakra-%234ED1C5.svg?style=for-the-badge&logo=chakraui&logoColor=white" alt="Chakra" />
   <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS" />
   <img src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase" alt="Firebase" />
@@ -43,7 +41,6 @@
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
   <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white" alt="Canva" />
   <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
-  <img src="https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform" />
   <img src="https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions" />
   <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 </div>
@@ -51,9 +48,13 @@
 
 # 📊 GitHub Stats:
 
-<div align="center">
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gepzuu&theme=calm_pink&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
+<div align="center" style="display: flex; align-items: center; justify-content: center;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gepzuu&theme=calm_pink&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
+  <a href="https://gitroll.io/profile/uM7B9MAjyXgalMCcU0O4GrTUXEZr2" target="_blank">
+    <img src="https://gitroll.io/api/badges/profiles/v1/uM7B9MAjyXgalMCcU0O4GrTUXEZr2" alt="GitRoll Profile Badge" style="height: 23vh;" />
+  </a>
 </div>
+
 
 ## 🏆 GitHub Trophies
 <div align="center">
