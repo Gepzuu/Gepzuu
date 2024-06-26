@@ -13,7 +13,7 @@
 🌱 I’m currently learning Go<br>
 </p>
 
-# 💻 Tech Stack:
+# 💻 Technologies I Have Experience With:
 
 <div align="center">
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
