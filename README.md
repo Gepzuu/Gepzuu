@@ -67,12 +67,6 @@
 </div>
 
 
-# ✉ Contact:
-<div align="center">
-  <a href="mailto:micgepzuu88@gmail.com">Here</a>
-</div>
-
-
 ---
 <div align="center">
  <a href="https://visitcount.itsvg.in">
