@@ -13,7 +13,7 @@
 🌱 I’m currently learning Go<br>
 </p>
 
-# 💻 Technologies I Have Experience With:
+# 💻 Languages and Tools:
 
 <div align="center">
 <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-plastic&logo=html5&logoColor=white" alt="HTML5" height="20" />
