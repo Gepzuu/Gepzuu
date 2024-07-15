@@ -70,7 +70,7 @@
 ---
 <div align="center">
 <a href="https://visitcount.itsvg.in">
-  <img src="https://visitcount.itsvg.in/api?id=gepzuu&label=Profile%20Views&color=2&pretty=false" />
+  <img src="https://visitcount.itsvg.in/api?id=gepzuu&label=Profile%20Views&color=2&icon=5&pretty=false" />
 </a>
 </div>
 
