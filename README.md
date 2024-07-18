@@ -54,7 +54,7 @@
 # 📊 GitHub Stats:
 
 <div align="center" style="display: flex; align-items: center; justify-content: center;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gepzuu&theme=calm_pink&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
+ 
   <a href="https://gitroll.io/profile/uM7B9MAjyXgalMCcU0O4GrTUXEZr2" target="_blank">
     <img src="https://gitroll.io/api/badges/profiles/v1/uM7B9MAjyXgalMCcU0O4GrTUXEZr2" alt="GitRoll Profile Badge" style="height: 23vh;" />
   </a>
