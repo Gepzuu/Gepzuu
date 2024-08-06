@@ -1,17 +1,3 @@
-# 🐱 About Me
-
-
-<p align="center"> Hello, I'm Gep. I'm passionate about expanding my knowledge in the fields of technology. </p>
-
-
-<div align="center">
-<img alt="Coding" width="400" src="https://cdn.dribbble.com/users/926537/screenshots/8768655/media/0eb8fcc9f2b8a55c589cfabd6cc89d94.gif"><br>
-</div>
-
-<br>
-<p align="center">
-🌱 I’m currently learning Go<br>
-</p>
 
 # 💻 Languages and Tools:
 
