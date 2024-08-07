@@ -14,7 +14,6 @@
 <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-plastic&logo=react&logoColor=%2361DAFB" alt="React" height="20" />
 <img src="https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-plastic&logo=vite&logoColor=white" alt="Vite" height="20" />
 <img src="https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-plastic&logo=npm&logoColor=white" alt="NPM" height="20" />
-
 <img src="https://img.shields.io/badge/SASS-hotpink.svg?style=plastic&logo=SASS&logoColor=white" alt="SASS" height="20" />
 <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-plastic&logo=tailwind-css&logoColor=white" alt="TailwindCSS" height="20" />
 <img src="https://img.shields.io/badge/firebase-a08021?style=plastic&logo=firebase&logoColor=ffcd34" alt="Firebase" height="20" />
@@ -27,7 +26,6 @@
 <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-plastic&logo=mongodb&logoColor=white" alt="MongoDB" height="20" />
 <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-plastic&logo=mysql&logoColor=white" alt="MySQL" height="20" />
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-plastic&logo=postman&logoColor=white" alt="Postman" height="20" />
-<img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-plastic&logo=Canva&logoColor=white" alt="Canva" height="20" />
 <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-plastice&logo=figma&logoColor=white" alt="Figma" height="20" />
 <img src="https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-plastic&logo=githubactions&logoColor=white" alt="GitHub Actions" height="20" />
 <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-plastic&logo=git&logoColor=white" alt="Git" height="20" />
