@@ -14,7 +14,7 @@
 <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-plastic&logo=react&logoColor=%2361DAFB" alt="React" height="20" />
 <img src="https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-plastic&logo=vite&logoColor=white" alt="Vite" height="20" />
 <img src="https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-plastic&logo=npm&logoColor=white" alt="NPM" height="20" />
-<img src="https://img.shields.io/badge/chakra-%234ED1C5.svg?style=for-the-plastic&logo=chakraui&logoColor=white" alt="Chakra" height="20" />
+
 <img src="https://img.shields.io/badge/SASS-hotpink.svg?style=plastic&logo=SASS&logoColor=white" alt="SASS" height="20" />
 <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-plastic&logo=tailwind-css&logoColor=white" alt="TailwindCSS" height="20" />
 <img src="https://img.shields.io/badge/firebase-a08021?style=plastic&logo=firebase&logoColor=ffcd34" alt="Firebase" height="20" />
