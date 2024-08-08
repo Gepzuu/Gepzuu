@@ -21,7 +21,6 @@
 <img src="https://img.shields.io/badge/github%20pages-121013?style=for-the-plastic&logo=github&logoColor=white" alt="GitHub Pages" height="20" />
 <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-plastic&logo=mariadb&logoColor=white" alt="MariaDB" height="20" />
 <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-plastic&logo=microsoft%20sql%20server&logoColor=white" alt="Microsoft SQL Server" height="20" />
-<img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-plastic&logo=mongodb&logoColor=white" alt="MongoDB" height="20" />
 <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-plastic&logo=mysql&logoColor=white" alt="MySQL" height="20" />
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-plastic&logo=postman&logoColor=white" alt="Postman" height="20" />
 <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-plastice&logo=figma&logoColor=white" alt="Figma" height="20" />
