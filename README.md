@@ -19,12 +19,14 @@
 <img src="https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-plastic&logo=netlify&logoColor=#00C7B7" alt="Netlify" height="20" />
 <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-plastic&logo=vercel&logoColor=white" alt="Vercel" height="20" />
 <img src="https://img.shields.io/badge/github%20pages-121013?style=for-the-plastic&logo=github&logoColor=white" alt="GitHub Pages" height="20" />
+<img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-plastic&logo=docker&logoColor=white" alt="Docker" height="20" />
+<img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-plastic&logo=git&logoColor=white" alt="Git" height="20" />
 <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-plastic&logo=microsoft%20sql%20server&logoColor=white" alt="Microsoft SQL Server" height="20" />
 <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-plastic&logo=mysql&logoColor=white" alt="MySQL" height="20" />
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-plastic&logo=postman&logoColor=white" alt="Postman" height="20" />
 <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-plastic&logo=figma&logoColor=white" alt="Figma" height="20" />
 <img src="https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-plastic&logo=WordPress&logoColor=white" alt="Wordpress" height="20" />
-<img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-plastic&logo=git&logoColor=white" alt="Git" height="20" />
+
 
 
 </div>
