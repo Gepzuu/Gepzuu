@@ -7,7 +7,6 @@
 <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-plastic&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" height="20" />
 <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-plastic&logo=php&logoColor=white" alt="PHP" height="20" />
 <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-plastic&logo=csharp&logoColor=white" alt="C#" height="20" />
-<img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-plastic&logo=openjdk&logoColor=white" alt="Java" height="20" />
 <img src="https://img.shields.io/badge/go-%2300ADD8.svg?style=plastic&logo=go&logoColor=white" alt="Go" height="20" />
 <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-plastic&logo=.net&logoColor=white" alt=".Net" height="20" />
 <img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-plastic&logo=bootstrap&logoColor=white" alt="Bootstrap" height="20" />
@@ -19,7 +18,6 @@
 <img src="https://img.shields.io/badge/firebase-a08021?style=plastic&logo=firebase&logoColor=ffcd34" alt="Firebase" height="20" />
 <img src="https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-plastic&logo=netlify&logoColor=#00C7B7" alt="Netlify" height="20" />
 <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-plastic&logo=vercel&logoColor=white" alt="Vercel" height="20" />
-<img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-plastic&logo=amazon-aws&logoColor=white" alt="AWS" height="20" />
 <img src="https://img.shields.io/badge/github%20pages-121013?style=for-the-plastic&logo=github&logoColor=white" alt="GitHub Pages" height="20" />
 <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-plastic&logo=mariadb&logoColor=white" alt="MariaDB" height="20" />
 <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-plastic&logo=microsoft%20sql%20server&logoColor=white" alt="Microsoft SQL Server" height="20" />
@@ -27,7 +25,6 @@
 <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-plastic&logo=mysql&logoColor=white" alt="MySQL" height="20" />
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-plastic&logo=postman&logoColor=white" alt="Postman" height="20" />
 <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-plastice&logo=figma&logoColor=white" alt="Figma" height="20" />
-<img src="https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-plastic&logo=githubactions&logoColor=white" alt="GitHub Actions" height="20" />
 <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-plastic&logo=git&logoColor=white" alt="Git" height="20" />
 
 
@@ -37,9 +34,6 @@
 # 📊 GitHub Stats:
 <div align="center" style="display: flex; align-items: center; justify-content: center;">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gepzuu&theme=calm_pink&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/>
-  <a href="https://gitroll.io/profile/uM7B9MAjyXgalMCcU0O4GrTUXEZr2" target="_blank">
-    <img src="https://gitroll.io/api/badges/profiles/v1/uM7B9MAjyXgalMCcU0O4GrTUXEZr2" alt="GitRoll Profile Badge" style="height: 23vh;" />
-  </a>
 </div>
 
 
