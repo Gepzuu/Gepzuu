@@ -6,6 +6,7 @@
 <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-plastic&logo=css3&logoColor=white" alt="CSS3" height="20" />
 <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-plastic&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" height="20" />
 <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-plastic&logo=php&logoColor=white" alt="PHP" height="20" />
+<img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-plastic&logo=openjdk&logoColor=white" alt="Java" height="20" />
 <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-plastic&logo=csharp&logoColor=white" alt="C#" height="20" />
 <img src="https://img.shields.io/badge/go-%2300ADD8.svg?style=plastic&logo=go&logoColor=white" alt="Go" height="20" />
 <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-plastic&logo=.net&logoColor=white" alt=".Net" height="20" />
@@ -38,10 +39,6 @@
 </div>
 
 
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=gepzuu&theme=calm_pink&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Profile Trophy" />
-</div>
 
 
 ---
