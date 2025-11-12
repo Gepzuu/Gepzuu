@@ -22,7 +22,7 @@
 
 ---
 
-<h2 align="center">💻 Languages Used</h2>
+<h2 align="center">💻 Languages and Tools Used</h2>
 
 <p align="center">
   <!-- Frontend -->
